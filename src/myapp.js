@@ -1,5 +1,5 @@
-const saySomething = (something) =>{
+const saySomething = (something) => {
     return `Hello ${something}`;
 }
 
-export {saySomething};
+export {saySomething}
